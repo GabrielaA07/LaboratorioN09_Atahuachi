@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Informaci\IeC {\'o}n General}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Objetivos:}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Recursos Utilizados:}{1}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Consideraciones Iniciales:}{1}{subsection.1.3}% 
+\contentsline {section}{\numberline {2}Desarrollo del Laboratorio Nro 09.}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Parte I: Instalaci\IeC {\'o}n de MongoDB.}{2}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Parte II: Importar Datos.}{3}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Parte III: Consultas.}{3}{subsection.2.3}% 
